@@ -1,0 +1,91 @@
+---
+year: '2021'
+booktitle: 'HEAR: Holistic Evaluation of Audio Representations (NeurIPS 2021 Competition)'
+publisher: PMLR
+series: Proceedings of Machine Learning Research
+volume: '166'
+shortname: HEAR
+start: 2021-12-13
+end: 2021-12-14
+published: 2022-12-30
+layout: proceedings
+issn: 2640-3498
+id: HEAR-2022
+month: 0
+cycles: false
+bibtex_editor: Turian, Joseph and Schuller, Bj\"{o}rn W. and Herremans, Dorien and
+  Kirchoff, Katrin and Perera, Paola Garcia and Esling, Philippe
+editor:
+- given: Joseph
+  family: Turian
+- given: Björn W.
+  family: Schuller
+- given: Dorien
+  family: Herremans
+- given: Katrin
+  family: Kirchoff
+- given: Paola Garcia
+  family: Perera
+- given: Philippe
+  family: Esling
+title: Proceedings of Machine Learning Research
+description: |
+  HEAR: Holistic Evaluation of Audio Representations (NeurIPS 2021 Competition)
+    Held in virtual on 13-14 December 2021
+
+  Published as Volume 166 by the Proceedings of Machine Learning Research on 30 December 2022.
+
+  Volume Edited by:
+    Joseph Turian
+    Björn W. Schuller
+    Dorien Herremans
+    Katrin Kirchoff
+    Paola Garcia Perera
+    Philippe Esling
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 13--14 Dec
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v166"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: lawrennd/proceedings
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v166
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v166
+email: ''
+conference:
+  name: 'HEAR: Holistic Evaluation of Audio Representations'
+  url: http://hearbenchmark.com/
+  location: virtual
+  dates:
+  - 2021-12-13
+  - 2021-12-14
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/home/markus/repos/mlresearch/v166/hear22.bib"
+# Site settings
+# Original source:  /home/markus/repos/mlresearch/v166/hear22.bib
